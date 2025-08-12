@@ -91,9 +91,3 @@ else:
 nome= 'alex'
 idade = 19
 print(nome,'maior de idade,' if idade >= 18 else 'é menor de idade')
-
-    
-
-
-
-
